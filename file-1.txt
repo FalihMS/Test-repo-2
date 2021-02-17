@@ -1,1 +1,2 @@
-ini file percobaan
+ini file percobaan 
+saya ganti
